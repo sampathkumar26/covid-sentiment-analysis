@@ -2,6 +2,5 @@ flask
 numpy
 pandas
 neattext
-sklearn
-string
+sklearn==0.22.1
 gunicorn
